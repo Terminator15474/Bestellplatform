@@ -8,5 +8,10 @@ namespace Bestellplatform.Controllers
         {
             return View();
         }
+        
+        public IActionResult Comp()
+        {
+            return View();
+        }
     }
 }
